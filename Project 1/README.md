@@ -11,6 +11,10 @@ python server.py
 pip install requests
 pip install jsonrpcclient
 python client.py
+
+#client_rpc:
+pip install jsonrpclib
+python client_rpc.py
 ```
 
 https://www.jsonrpcserver.com/en/stable/
